@@ -40,7 +40,6 @@ body {
     list-style: none;
     display: inline-block;
     margin-left: 25px;
-
 }
 
 /* Removed paragraph styling and added it to body section */
@@ -116,6 +115,7 @@ a {
 
 .services img {
     max-height: 200px;
+    width: 400px;
 }
 
 .services h2 {
