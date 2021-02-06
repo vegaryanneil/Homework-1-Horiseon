@@ -38,4 +38,4 @@ Below is a glimpse of the Horiseon website.
 
 Below is a image of the code.
 
-![Glimpse of Code](/vscode.png)
+![Glimpse of Code](/images/vscode.png)
