@@ -1,9 +1,9 @@
 # Homework-1-Horiseon
 ## Changes made to Horiseon Code
 ### Changes made to index.html
-1. Line 8 Added a <meta> with a name=description to describe the content of the website.
-2. Line 10 Changed <title> to company name "Horiseon | Marketing Agency"
-3. Line 16-32 Added <nav> to define a set of navigation links.
+1. Line 8 Added a meta with a name=description to describe the content of the website.
+2. Line 10 Changed title to company name "Horiseon | Marketing Agency"
+3. Line 16-32 Added nav to define a set of navigation links.
 4. Line 37 Changed class name from "search-engine-optimization" to "services" to shorten the name.
 5. Line 37 Added id="search-engine-optimization" to fix navigation link.
 6. Line 45 Changed class name from "online-reputation-management" to "services" to shorten the name.
@@ -21,7 +21,7 @@
 18. Added Semantic Elements in place of div
 
 ### Changes made to style.css
-1. Line 9 Added font-size 16px and removed <p> style to consolidate code.
+1. Line 9 Added font-size 16px and removed p style to consolidate code.
 2. Line 39-43 Removed .header div ul; added list-style:none to .header div ul li to consolidate code.
 3. Line 89-92 Consolidated .benefit-brand, .benefit-cost, and .benefit lead to .benefits to consolidate code.
 4. Line 94-97 Consolidated .benefit-brand h3, .benefit-cost h3, and .benefit-lead h3 to .benefits h3 to consolidate code.
@@ -31,7 +31,7 @@
 8. Line 118 Added width: 400px; to better match the demo image.
 9. Line 120-123 Consolidated .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 to .services h2 to consolidate code.
 10. Updated some CSS
-
+;
 Below is a glimpse of the Horiseon website.
 
 ![website] (horiseon.png)
