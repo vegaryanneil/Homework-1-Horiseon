@@ -32,4 +32,4 @@
 9. Line 120-123 Consolidated .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 to .services h2 to consolidate code.
 10. Updated some CSS
 
-![Screenshot] (images/vscode.png.png)
+![Screenshot] (images/vscode.png)
