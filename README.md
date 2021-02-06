@@ -38,3 +38,5 @@ Below is a glimpse of the Horiseon website.
 Format: ![Glimpse of Website] (horiseon.png)
 
 <img src="/images/vscode.png", width="800"/>
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
