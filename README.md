@@ -18,6 +18,7 @@
 15. Line 66 added alt="Lead-Generation-Image" to enhance accessibility.
 16. Line 73 added alt="Brand-Awareness-Image" to enhance accessibility.
 17. Line 80 added alt="Cost-Management-Image" to enhance accessibility.
+18. Added Semantic Elements in place of div
 
 ### Changes made to style.css
 1. Line 9 Added font-size 16px and removed <p> style to consolidate code.
@@ -29,3 +30,6 @@
 7. Line 116-118 Consolidated .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img to .services img to consolidate code.
 8. Line 118 Added width: 400px; to better match the demo image.
 9. Line 120-123 Consolidated .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 to .services h2 to consolidate code.
+10. Updated some CSS
+
+![Screenshot] (images/vscode.png)
