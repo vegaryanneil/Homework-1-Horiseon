@@ -33,8 +33,8 @@
 10. Updated some CSS
 
 Below is a glimpse of the Horiseon website.
+
 ![website] (horiseon.png)
 Format: ![Glimpse of Website] (horiseon.png)
 
-![Screenshot] (vscode.png)
-Format: ![Screenshot of Code] (images/vscode.png)
+<img src="/images/vscode.png", width="800"/>
