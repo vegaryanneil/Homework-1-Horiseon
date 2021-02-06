@@ -36,4 +36,6 @@ Below is a glimpse of the Horiseon website.
 
 ![Image of website](horiseon.png)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Below is a image of the code.
+
+![Glimpse of Code](/vscode.png)
