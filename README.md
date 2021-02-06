@@ -32,4 +32,9 @@
 9. Line 120-123 Consolidated .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 to .services h2 to consolidate code.
 10. Updated some CSS
 
+Below is a glimpse of the Horiseon website.
 ![website] (horiseon.png)
+Format: ![Glimpse of Website] (horiseon.png)
+
+![Screenshot] (vscode.png)
+Format: ![Screenshot of Code] (images/vscode.png)
